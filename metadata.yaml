@@ -1,0 +1,29 @@
+_repo: Studien-und-PlaudereienFirst-Series_22160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stern, Sigmon Martin
+    gutenberg_agent_id: '25150'
+    url: http://www.gutenberg.org/2009/agents/25150
+description: ''
+gutenberg_bookshelf:
+- Language Education
+- DE Sachbuch
+gutenberg_issued: '2007-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22160'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German language -- Composition and exercises'
+- !lcsh 'German language -- Conversation and phrase books'
+- !lcc 'PD'
+- !lcc 'PF'
+title: Studien und Plaudereien. First Series
+url: http://www.gutenberg.org/ebooks/22160
