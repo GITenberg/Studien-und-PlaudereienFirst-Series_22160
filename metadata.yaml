@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25150'
     url: http://www.gutenberg.org/2009/agents/25150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22160#Studien-und-PlaudereienFirst-Series
 gutenberg_bookshelf:
 - Language Education
 - DE Sachbuch
